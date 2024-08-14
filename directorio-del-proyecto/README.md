@@ -13,7 +13,7 @@ Correo: martinsv11@hotmail.com
 [Visita mi pagina](/index.html)
 
 ### Notas de Lectura del Codigo 201
-1. [Clase 01](/201/class-01.md)
+1. [Clase 01](/lecturas201/class-01.md)
 2. [Clase 02](/201/class-02.md)
 3. [Clase 03](/201/class-03.md)
 4. [Clase 04](/201/class-04.md)
