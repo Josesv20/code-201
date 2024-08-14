@@ -12,7 +12,7 @@ Correo: martinsv11@hotmail.com
 
 [Perfil de Github](https://github.com/Josesv20)
 
-[Visita mi pagina](/index.html)
+[Visita mi pagina](/directorio-del-proyecto/index.html)
 
 ### Notas de Lectura del Codigo 201
 1. [Clase 01](/201/class-01.md)
