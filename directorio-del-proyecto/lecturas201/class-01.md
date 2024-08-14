@@ -44,9 +44,9 @@ Esta pregunta se centra en la acción o las acciones específicas que esperas qu
 
 Semántica.
 
-¿Por qué se debe utilizar un elemento <h1> en vez de un <span> para mostrar un título de primer nivel?
+¿Por qué se debe utilizar un elemento h1 en vez de un span para mostrar un título de primer nivel?
 
-Utilizar un elemento <h1> en lugar de un <span> para mostrar un título de primer nivel es esencial por varias razones, principalmente relacionadas con la semántica, accesibilidad, y SEO
+Utilizar un elemento h1 en lugar de un span para mostrar un título de primer nivel es esencial por varias razones, principalmente relacionadas con la semántica, accesibilidad, y SEO
 
 ¿Cuáles son los beneficios de utilizar etiquetas semánticas en nuestro HTML?
 
@@ -63,4 +63,4 @@ Manipulación Dinámica del DOM: JavaScript permite modificar el contenido y la 
 
 ¿Cómo se puede añadir JavaScript a un documento en HTML?
 
-Puedes escribir código JavaScript directamente dentro de una etiqueta <script> en el archivo HTML.
+Puedes escribir código JavaScript directamente dentro de una etiqueta script en el archivo HTML.
