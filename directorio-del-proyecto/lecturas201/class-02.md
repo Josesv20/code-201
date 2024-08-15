@@ -27,23 +27,23 @@ Al utilizar el elemento abbr, se debe añadir el atributo title para proporciona
 
 Inline: Estilos aplicados directamente en los elementos HTML utilizando el atributo style. Por ejemplo:
 
-<p style="color: blue;">Este es un texto en azul.</p>
+(p) style="color: blue;" Este es un texto en azul. (/p)
 
 Interno: Estilos incluidos dentro de una etiqueta style en la sección head del documento HTML. Por ejemplo:
 
-<head>
-  <style>
+(head)
+  (style)
     p {
       color: blue;
     }
-  </style>
-</head>
+  (/style)
+(/head)
 
 Externo: Estilos definidos en un archivo separado con extensión .css, que se enlaza al documento HTML con la etiqueta link en el head. Por ejemplo:
 
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
+(head>)
+  (link rel="stylesheet" href="styles.css")
+(/head)
 
 ¿Por qué deberíamos evitar utilizar estilos inline?
 
