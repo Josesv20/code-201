@@ -1,5 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
+    background-color: bisque;
   }
   
   img {
@@ -26,3 +27,6 @@ body {
     list-style: decimal;
 }
 
+header {
+  background-color: chocolate;
+}
